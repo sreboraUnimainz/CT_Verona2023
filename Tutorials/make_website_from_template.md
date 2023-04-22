@@ -1,4 +1,4 @@
-# Create your webpage with GitHub
+# Create your website with GitHub
 
 ## Step 1. Find a good template
 
@@ -22,13 +22,16 @@ Select: add file, then upload file
 ![Screenshot 2023-04-22 at 17 59 12](https://user-images.githubusercontent.com/29945305/233794594-010f7eee-bc21-4c7e-b329-624927d803fd.png)
 
 ...and upload all the files from the template.  
-**Be careful in copying all files in the main folder, which should include a "index.html" file!**
 
-![Screenshot 2023-04-22 at 18 04 12](https://user-images.githubusercontent.com/29945305/233794794-7cc39216-b9e4-49c0-8911-90592d03ce40.png)
+**Be careful in:**
+- unzipping the template (if provided as a single .zip file)
+- copying all files from the main folder of the template, which should include a "index.html" file (see screenshot below)
+
+![233794794-7cc39216-b9e4-49c0-8911-90592d03ce40](https://user-images.githubusercontent.com/29945305/233795868-d678ebb6-931c-4f42-93d5-7641187bca0e.png)
 
 ## Step 4. Launch the website
 
-Once all the template files are in the repository, you can launch the GitHub webpage!  
+Once all the template files are in the repository (See screenshot below), you can launch the GitHub webpage!  
 See my other tutorial here: https://github.com/SimoneRebora/GitHubVerona2022/blob/main/tutorials/webpage_creation.md
 
 ![Screenshot 2023-04-22 at 18 07 41](https://user-images.githubusercontent.com/29945305/233794939-f8fab987-0d38-45eb-a43e-0f218e87c368.png)
